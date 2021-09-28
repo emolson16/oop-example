@@ -32,7 +32,7 @@ class BankAccount {
 
     //TODOL Pay your credit card bill (you can go into debt here)
     // try to do this one using scope resolution!
-    void payBill() {}
+    void payBill();
 
     // Challenge problem- don't worry if you can't get it yet
     // TODO pay your freind the given amount to their account 
